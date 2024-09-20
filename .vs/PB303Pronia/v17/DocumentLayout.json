@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\views\\setting\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\views\\setting\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\shared\\_basketpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\shared\\_basketpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\services\\implementations\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\services\\implementations\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\services\\abstactions\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\services\\abstactions\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\viewmodels\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\viewmodels\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920155516_addedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PB303Pronia\\Migrations\\20240920155516_addedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\migrations\\20240920101456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\migrations\\20240920101456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\configurations\\settingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\configurations\\settingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920151533_addedSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PB303Pronia\\Migrations\\20240920151533_addedSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\shared\\_headerpartial.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\shared\\_headerpartial.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|c:\\users\\asiman\\source\\repos\\pb303pronia\\pb303pronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DED796D-9C97-43E7-8BB2-C8569AA3246D}|PB303Pronia\\PB303Pronia.csproj|solutionrelative:pb303pronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Setting\\Create.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Views\\Setting\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Setting\\Create.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Views\\Setting\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T17:19:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "PB303Pronia\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "PB303Pronia\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T16:53:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PB303Pronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwGEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:08:27.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ViewState": "AQIAAPECAAAAAAAAAAArwP4CAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:45:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Services\\Abstactions\\ILayoutService.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Services\\Abstactions\\ILayoutService.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Services\\Abstactions\\ILayoutService.cs",
+              "RelativeToolTip": "PB303Pronia\\Services\\Abstactions\\ILayoutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:17:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Program.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Program.cs",
+              "RelativeToolTip": "PB303Pronia\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:07:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALQHAAAAAAAAAAAAALUHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:15:29.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAANwAAAAAAAAAAAAAAPIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:17:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Controllers\\SettingController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:29:14.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Setting\\Index.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Views\\Setting\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Setting\\Index.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Views\\Setting\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:29:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:38:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Services\\Implementations\\LayoutService.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Services\\Implementations\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Services\\Implementations\\LayoutService.cs",
+              "RelativeToolTip": "PB303Pronia\\Services\\Implementations\\LayoutService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:17:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "PB303Pronia\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:57:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_BasketPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_BasketPartial.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Shared\\_BasketPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_BasketPartial.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\Shared\\_BasketPartial.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T16:27:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:08:10.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewModels\\BasketViewModel.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\ViewModels\\BasketViewModel.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewModels\\BasketViewModel.cs",
+              "RelativeToolTip": "PB303Pronia\\ViewModels\\BasketViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:04:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240920155516_addedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920155516_addedProducts.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Migrations\\20240920155516_addedProducts.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920155516_addedProducts.cs",
+              "RelativeToolTip": "PB303Pronia\\Migrations\\20240920155516_addedProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:55:16.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAArwEcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:29:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240920101456_init.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920101456_init.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Migrations\\20240920101456_init.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920101456_init.cs",
+              "RelativeToolTip": "PB303Pronia\\Migrations\\20240920101456_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:14:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Models\\Product.cs",
+              "RelativeToolTip": "PB303Pronia\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:08:21.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "PB303Pronia\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:11:41.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:38:55.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Configurations\\SettingConfiguration.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Configurations\\SettingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Configurations\\SettingConfiguration.cs",
+              "RelativeToolTip": "PB303Pronia\\Configurations\\SettingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:12:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240920151533_addedSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920151533_addedSettings.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Migrations\\20240920151533_addedSettings.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Migrations\\20240920151533_addedSettings.cs",
+              "RelativeToolTip": "PB303Pronia\\Migrations\\20240920151533_addedSettings.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:15:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Models\\Setting.cs",
+              "RelativeToolTip": "PB303Pronia\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:11:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "PB303Pronia\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:51:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\appsettings.json",
+              "RelativeDocumentMoniker": "PB303Pronia\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\appsettings.json",
+              "RelativeToolTip": "PB303Pronia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:13:21.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "PB303Pronia\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAwwK0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T11:54:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_HeaderPartial.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml.cs",
+              "RelativeDocumentMoniker": "PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml.cs",
+              "RelativeToolTip": "PB303Pronia\\Views\\Shared\\_HeaderPartial.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:58:56.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
