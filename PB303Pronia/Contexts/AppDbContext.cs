@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PB303Pronia.Models;
 using System.Reflection;
 
 namespace PB303Pronia.Contexts;
 
-public class AppDbContext:DbContext
+public class AppDbContext:IdentityDbContext<AppUser,IdentityRole<int>,int>
 {
     public AppDbContext(DbContextOptions<AppDbContext> options):base(options)
     {
@@ -21,4 +23,5 @@ public class AppDbContext:DbContext
 
     public DbSet<Setting> Settings { get; set; } = null!;
     public DbSet<Product> Products  { get; set; } = null!;
+    public DbSet<ProductImage> ProductImages   { get; set; } = null!;
 }

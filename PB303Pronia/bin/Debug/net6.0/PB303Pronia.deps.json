@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "PB303Pronia/1.0.0": {
         "dependencies": {
+          "Google.Apis.Auth": "1.68.0",
+          "Google.Apis.Drive.v3": "1.68.0.3544",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.33",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.33",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.33",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.17",
@@ -15,6 +18,53 @@
         },
         "runtime": {
           "PB303Pronia.dll": {}
+        }
+      },
+      "Google.Apis/1.68.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.68.0"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.dll": {
+            "assemblyVersion": "1.68.0.0",
+            "fileVersion": "1.68.0.0"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.68.0": {
+        "dependencies": {
+          "Google.Apis": "1.68.0",
+          "Google.Apis.Core": "1.68.0",
+          "System.Management": "7.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.68.0.0",
+            "fileVersion": "1.68.0.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.68.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.68.0.0",
+            "fileVersion": "1.68.0.0"
+          }
+        }
+      },
+      "Google.Apis.Drive.v3/1.68.0.3544": {
+        "dependencies": {
+          "Google.Apis": "1.68.0",
+          "Google.Apis.Auth": "1.68.0"
+        },
+        "runtime": {
+          "lib/net6.0/Google.Apis.Drive.v3.dll": {
+            "assemblyVersion": "1.68.0.3544",
+            "fileVersion": "1.68.0.3544"
+          }
         }
       },
       "Humanizer/2.14.1": {
@@ -583,6 +633,37 @@
         }
       },
       "MessagePackAnalyzer/2.1.152": {},
+      "Microsoft.AspNetCore.Cryptography.Internal/6.0.33": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3324.37905"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.33": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.33"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3324.37905"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.33": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.33",
+          "Microsoft.Extensions.Identity.Stores": "6.0.33"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.3324.37905"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Razor.Language/6.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {
@@ -1198,6 +1279,32 @@
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
+      "Microsoft.Extensions.Identity.Core/6.0.33": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "6.0.33",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Identity.Core.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3324.37905"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Stores/6.0.33": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Identity.Core": "6.0.33",
+          "Microsoft.Extensions.Logging": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Identity.Stores.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3324.37905"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/6.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.1",
@@ -1637,6 +1744,14 @@
           "System.Threading": "4.3.0"
         }
       },
+      "System.CodeDom/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.CodeDom.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -1975,6 +2090,25 @@
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
           "System.Threading": "4.3.0"
+        }
+      },
+      "System.Management/7.0.2": {
+        "dependencies": {
+          "System.CodeDom": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Management.dll": {
+            "assemblyVersion": "7.0.0.2",
+            "fileVersion": "7.0.723.27404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.2",
+            "fileVersion": "7.0.723.27404"
+          }
         }
       },
       "System.Memory/4.5.4": {},
@@ -2424,6 +2558,34 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Google.Apis/1.68.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s2MymhdpH+ybZNBeZ2J5uFgFHApBp+QXf9FjZSdM1lk/vx5VqIknJwnaWiuAzXxPrLEkesX0Q+UsiWn39yZ9zw==",
+      "path": "google.apis/1.68.0",
+      "hashPath": "google.apis.1.68.0.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.68.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hFx8Qz5bZ4w0hpnn4tSmZaaFpjAMsgVElZ+ZgVLUZ2r9i+AKcoVgwiNfv1pruNS5cCvpXqhKECbruBCfRezPHA==",
+      "path": "google.apis.auth/1.68.0",
+      "hashPath": "google.apis.auth.1.68.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.68.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pAqwa6pfu53UXCR2b7A/PAPXeuVg6L1OFw38WckN27NU2+mf+KTjoEg2YGv/f0UyKxzz7DxF1urOTKg/6dTP9g==",
+      "path": "google.apis.core/1.68.0",
+      "hashPath": "google.apis.core.1.68.0.nupkg.sha512"
+    },
+    "Google.Apis.Drive.v3/1.68.0.3544": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wKwI196KJn8kUQ+iPLQywqon9Gbxx1f32RFuLm7sLaNygGmZMg8TOMSqei3Oisc/NM9xdANJg+yoJdQ6m3dnxg==",
+      "path": "google.apis.drive.v3/1.68.0.3544",
+      "hashPath": "google.apis.drive.v3.1.68.0.3544.nupkg.sha512"
+    },
     "Humanizer/2.14.1": {
       "type": "package",
       "serviceable": true,
@@ -2795,6 +2957,27 @@
       "path": "messagepackanalyzer/2.1.152",
       "hashPath": "messagepackanalyzer.2.1.152.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Cryptography.Internal/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fUZKksTqbLgWQ1BSDyWJS9wFKz9QKOIIbJZ/KDIE34Bx4lscYci/uNO4XN7v4V6tzFh3gbahCZ7hXXtUboqiZw==",
+      "path": "microsoft.aspnetcore.cryptography.internal/6.0.33",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.6.0.33.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ie7ZsdUJmKm6fvTf8Uz1gx86J5QjJnDaSOI5jzTzhjWGbetG2PHlBW8Jh+DUBKAWqCEAS1vz0wSjUumeMKGPgg==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.33",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.33.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pknm1ruajSdXnFoB5+rWDXd4pn8VTCfLA7MxZqMblp6kDQ5BAsWXyOzsDt5ojm1qg3+Rls9bz1VRpOGWt5AhEw==",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/6.0.33",
+      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.6.0.33.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Razor.Language/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2997,6 +3180,20 @@
       "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Core/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-04ntA2nEZT0TTV0bo+pSIERax2Z+/C+BCbTSwQgKCH9EMQbHsRhbony+VAS9F3SIYawsPPIHYLsJPpxMFTmCIA==",
+      "path": "microsoft.extensions.identity.core/6.0.33",
+      "hashPath": "microsoft.extensions.identity.core.6.0.33.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Identity.Stores/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GfAcUbDLItvzMUeINDj2ynWkEl+sKbmY0j2znGu1xNYr0fRSWbF2kxia5yIlB/jPeZs0+fNhciWTiVu0b++sNA==",
+      "path": "microsoft.extensions.identity.stores/6.0.33",
+      "hashPath": "microsoft.extensions.identity.stores.6.0.33.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/6.0.0": {
       "type": "package",
@@ -3362,6 +3559,13 @@
       "path": "system.buffers/4.3.0",
       "hashPath": "system.buffers.4.3.0.nupkg.sha512"
     },
+    "System.CodeDom/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GLltyqEsE5/3IE+zYRP5sNa1l44qKl9v+bfdMcwg+M9qnQf47wK3H0SUR/T+3N4JEQXF3vV4CSuuo0rsg+nq2A==",
+      "path": "system.codedom/7.0.0",
+      "hashPath": "system.codedom.7.0.0.nupkg.sha512"
+    },
     "System.Collections/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3564,6 +3768,13 @@
       "sha512": "sha512-PGKkrd2khG4CnlyJwxwwaWWiSiWFNBGlgXvJpeO0xCXrZ89ODrQ6tjEWS/kOqZ8GwEOUATtKtzp1eRgmYNfclg==",
       "path": "system.linq.expressions/4.3.0",
       "hashPath": "system.linq.expressions.4.3.0.nupkg.sha512"
+    },
+    "System.Management/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/qEUN91mP/MUQmJnM5y5BdT7ZoPuVrtxnFlbJ8a3kBJGhe2wCzBfnPFtK2wTtEEcf3DMGR9J00GZZfg6HRI6yA==",
+      "path": "system.management/7.0.2",
+      "hashPath": "system.management.7.0.2.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

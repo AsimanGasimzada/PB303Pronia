@@ -1,15 +1,15 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using PB303Pronia.Models.Common;
+using System.ComponentModel.DataAnnotations;
 
 namespace PB303Pronia.Models;
 
-public class Product
+public class Product:BaseEntity
 {
-    public int Id { get; set; }
     public string Name { get; set; } = null!;
     public decimal Price { get; set; } 
-    public string ImagePath { get; set; } = null!;
-    public string HoverImagePath { get; set; } = null!;
 
     [Range(0,5)]
     public int Rating { get; set; }
+    public List<ProductImage> ProductImages { get; set; } = new();
+
 }

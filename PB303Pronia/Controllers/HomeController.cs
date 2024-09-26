@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using PB303Pronia.Contexts;
 using PB303Pronia.Services.Abstactions;
+using PB303Pronia.Services.Implementations;
 using PB303Pronia.ViewModels;
 
 namespace PB303Pronia.Controllers;
@@ -22,6 +23,7 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Index()
     {
+
 
         var products=await _context.Products.ToListAsync();
         

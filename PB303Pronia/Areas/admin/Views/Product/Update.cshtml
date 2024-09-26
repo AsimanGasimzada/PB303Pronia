@@ -1,0 +1,105 @@
+﻿@model ProductUpdateViewModel
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <p class="card-description">
+                Create Product
+            </p>
+            <form method="post" class="forms-sample" enctype="multipart/form-data">
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Name</label>
+                    <input class="form-control" id="input1" asp-for="Name" placeholder="Name">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Price</label>
+                    <input class="form-control" id="input1" asp-for="Price" placeholder="Price">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Rating</label>
+                    <input class="form-control" id="input1" asp-for="Rating" placeholder="Rating">
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+
+
+
+
+                <div class="form-group">
+                    <img src="~/assets/images/@Model.MainImagePath" />
+                    <input type="hidden" asp-for="MainImagePath"/>
+                    <label for="exampleInputUsername1">Main image</label>
+                    <input class="form-control" id="input1" asp-for="MainImage" placeholder="Name">
+                    <span asp-validation-for="MainImage" class="text-danger"></span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <img src="~/assets/images/@Model.HoverImagePath" />
+                    <input type="hidden" asp-for="HoverImagePath" />
+
+                    <label for="exampleInputUsername1">Hover image</label>
+                    <input class="form-control" id="input1" asp-for="HoverImage" placeholder="Name">
+                    <span asp-validation-for="HoverImage" class="text-danger"></span>
+                </div>
+
+
+                @for (int i = 0; i < Model.AdditionalImagePaths?.Count; i++)
+                {
+                    var imagePath = Model.AdditionalImagePaths[i];
+
+                    <div style="position: relative; display: inline-block; margin-right: 10px;">
+                        <div style="position: relative;">
+                            <img style="width: 100px; height: 100px;" class="primary-img"
+                                 src="~/assets/images/@imagePath"
+                                 alt="Product Images" />
+                            <button type="button" class="buttonRemove btn btn-danger" style="position: absolute; top: 0; right: 0; z-index: 1;">
+                                x
+                            </button>
+                            <input asp-for="AdditionalImagePaths" type="hidden" value="@imagePath" /> 
+                            <input asp-for="AdditionalImageIds" type="hidden" value="@Model.AdditionalImageIds[i]" />
+                        </div>
+
+                    </div>
+                }
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Additional image</label>
+                    <input class="form-control" id="input1" asp-for="AdditionalImages" placeholder="Name">
+                    <span asp-validation-for="AdditionalImages" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+                    <script>
+                        const buttons = document.querySelectorAll(".buttonRemove");
+
+                        buttons.forEach(btn=>{
+                            btn.addEventListener('click', (e) => {
+                                e.preventDefault();
+
+                                e.target.parentElement.remove();
+                            })
+                        })
+
+
+                    </script>
