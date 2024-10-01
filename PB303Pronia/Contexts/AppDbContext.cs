@@ -6,7 +6,7 @@ using System.Reflection;
 
 namespace PB303Pronia.Contexts;
 
-public class AppDbContext:IdentityDbContext<AppUser,IdentityRole<int>,int>
+public class AppDbContext:DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options):base(options)
     {

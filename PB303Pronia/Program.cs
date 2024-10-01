@@ -20,23 +20,6 @@ public class Program
 
         builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
-        builder.Services.AddIdentity<AppUser, IdentityRole<int>>(options =>
-        {
-            options.Password.RequireLowercase = false;
-            options.Password.RequireUppercase = false;
-            options.Password.RequiredLength = 4;
-
-
-            options.User.RequireUniqueEmail = true;
-            options.Lockout.AllowedForNewUsers = false;
-            options.Lockout.MaxFailedAccessAttempts = 5;
-            options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
-
-        })
-        .AddEntityFrameworkStores<AppDbContext>()
-        .AddDefaultTokenProviders()
-        .AddErrorDescriber<CustomIdentityErrorDescriber>();    
-
 
         builder.Services.AddHttpContextAccessor();
         builder.Services.AddScoped<ILayoutService, LayoutService>();
