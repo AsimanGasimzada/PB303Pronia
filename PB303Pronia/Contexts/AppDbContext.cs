@@ -24,4 +24,5 @@ public class AppDbContext:DbContext
     public DbSet<Setting> Settings { get; set; } = null!;
     public DbSet<Product> Products  { get; set; } = null!;
     public DbSet<ProductImage> ProductImages   { get; set; } = null!;
+    public DbSet<Slider> Sliders   { get; set; } = null!;
 }

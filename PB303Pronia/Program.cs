@@ -1,11 +1,9 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PB303Pronia.Contexts;
-using PB303Pronia.Models;
+using PB303Pronia.Repositories.Abstractions;
+using PB303Pronia.Repositories.Implementations;
 using PB303Pronia.Services.Abstactions;
 using PB303Pronia.Services.Implementations;
-using PB303Pronia.Data;
-using PB303Pronia.Helpers;
 
 namespace PB303Pronia;
 
@@ -23,6 +21,11 @@ public class Program
 
         builder.Services.AddHttpContextAccessor();
         builder.Services.AddScoped<ILayoutService, LayoutService>();
+        builder.Services.AddScoped<IEmailService, EmailService>();
+
+
+        builder.Services.AddScoped<IProductRepository, ProductRepository>();
+        builder.Services.AddScoped<ISliderRepository,SliderRepository>();
 
         var app = builder.Build();
 

@@ -105,8 +105,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\3cdead65-8864-4b6f-b501-4e97f93f03211-2-524x617.png"
     },
     {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\3dfba1c6-1f9c-40b8-b915-67309be013051-2-120x120.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\3dfba1c6-1f9c-40b8-b915-67309be013051-2-120x120.webp"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\3e45ea63-1035-4101-b329-201bf46f3a521-2-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\3e45ea63-1035-4101-b329-201bf46f3a521-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\3fb7277b-ee3a-42c4-b506-fa7cd6fdcba61-1-120x120.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\3fb7277b-ee3a-42c4-b506-fa7cd6fdcba61-1-120x120.webp"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\44e2d713-7280-4286-8d42-3266a16dbdf31-2-370x300.jpg",
@@ -119,6 +127,10 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\5674cccb-d921-4de9-b954-1b1f3f31f6ef1-1-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\5674cccb-d921-4de9-b954-1b1f3f31f6ef1-1-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\57793161-adb4-470a-9e52-ec1063a9bea21-2-120x120.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\57793161-adb4-470a-9e52-ec1063a9bea21-2-120x120.webp"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\61c16508-ae31-4227-9d69-f9bca9500c3c1-2-524x617.png",
@@ -157,8 +169,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\9c732840-9762-4267-9851-02b4932ef5861-2-310x220.jpg"
     },
     {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\9fdd5faf-6612-4286-b9ab-3d0e637815d71-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\9fdd5faf-6612-4286-b9ab-3d0e637815d71-2-310x220.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a834a4f0-5aef-4027-b175-e4d2ddb19da3car.png",
       "PackagePath": "staticwebassets\\assets\\images\\a834a4f0-5aef-4027-b175-e4d2ddb19da3car.png"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a9b6b94d-5e06-4298-9d27-1ecf295cb7021-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a9b6b94d-5e06-4298-9d27-1ecf295cb7021-2-270x300.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a9df1e16-949f-4f7b-8401-c2960816b1931-2-270x300.jpg",
@@ -187,6 +207,10 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\about\\team\\1-4-270x270.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\ad1f299e-4fc3-4000-a65a-ed324902856d1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ad1f299e-4fc3-4000-a65a-ed324902856d1-2-270x300.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\b05055a0-dbd4-4882-8e72-70752d6649e61-1-120x120.webp",
@@ -343,6 +367,10 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\f238aa09-7189-466f-899f-a753b5e9315c1-11-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\f238aa09-7189-466f-899f-a753b5e9315c1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\f9f6b858-123a-482b-838d-638809de14281-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\f9f6b858-123a-482b-838d-638809de14281-3-570x633.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\favicon.ico",

@@ -261,3 +261,7 @@ C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\Microsoft.
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\obj\Debug\net6.0\PB303Pronia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\MailKit.dll
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\System.Formats.Asn1.dll
