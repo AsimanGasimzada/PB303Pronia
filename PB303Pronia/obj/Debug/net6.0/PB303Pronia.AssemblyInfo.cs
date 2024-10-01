@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PB303Pronia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b6821a3cf18a1abc5cef8c15b329e606b64ec26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03814f018794520d183c155742f33ea429d491b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PB303Pronia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PB303Pronia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

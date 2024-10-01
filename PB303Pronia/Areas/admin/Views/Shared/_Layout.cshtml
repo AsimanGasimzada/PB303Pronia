@@ -19,7 +19,18 @@
     <!-- endinject -->
     <link rel="shortcut icon" href="~/images/favicon.png" />
 
-    
+
+    <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/43.1.1/ckeditor5.css">
+
+
+    <style>
+        .main-container {
+            width: 795px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+
 </head>
 <body>
     <div class="container-scroller">
@@ -276,6 +287,30 @@
 
     <!-- End custom js for this page-->
     <script src="~/js/jquery.cookie.js" type="text/javascript"></script>
+
+
+    <script type="importmap">
+        {
+            "imports": {
+                "ckeditor5": "https://cdn.ckeditor.com/ckeditor5/43.1.1/ckeditor5.js",
+                "ckeditor5/": "https://cdn.ckeditor.com/ckeditor5/43.1.1/"
+            }
+        }
+    </script>
+
+
+    <script type="module">
+        import {
+            ClassicEditor,
+            Essentials,
+            Paragraph,
+            Bold,
+            Italic,
+            Font
+        } from 'ckeditor5';
+
+
+    </script>
 </body>
 
 </html>

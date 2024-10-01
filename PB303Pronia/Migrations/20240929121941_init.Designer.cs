@@ -12,7 +12,7 @@ using PB303Pronia.Contexts;
 namespace PB303Pronia.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240926195738_init")]
+    [Migration("20240929121941_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

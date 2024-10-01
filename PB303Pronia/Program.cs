@@ -4,6 +4,8 @@ using PB303Pronia.Contexts;
 using PB303Pronia.Models;
 using PB303Pronia.Services.Abstactions;
 using PB303Pronia.Services.Implementations;
+using PB303Pronia.Data;
+using PB303Pronia.Helpers;
 
 namespace PB303Pronia;
 
@@ -30,7 +32,10 @@ public class Program
             options.Lockout.MaxFailedAccessAttempts = 5;
             options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
 
-        }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();    
+        })
+        .AddEntityFrameworkStores<AppDbContext>()
+        .AddDefaultTokenProviders()
+        .AddErrorDescriber<CustomIdentityErrorDescriber>();    
 
 
         builder.Services.AddHttpContextAccessor();
@@ -44,6 +49,7 @@ public class Program
 
         app.UseRouting();
 
+        app.UseAuthentication(); ;
         app.UseAuthorization();
 
 

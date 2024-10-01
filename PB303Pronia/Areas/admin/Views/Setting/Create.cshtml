@@ -10,12 +10,13 @@
 
                 <div class="form-group">
                     <label for="exampleInputUsername1">Key</label>
-                    <input class="form-control" id="input1" asp-for="Key" name="Key" placeholder="Username">
+                    <textarea class="form-control" id="input1" asp-for="Key" placeholder="Key" ></textarea>
                     <span asp-validation-for="Key" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Value</label>
-                    <input class="form-control" id="input2" name="Value" asp-for="Value" placeholder="Email">
+                    <textarea class="form-control" id="input2" asp-for="Value"  placeholder="Value"></textarea>
+
                     <span asp-validation-for="Value" class="text-danger"></span>
                 </div>
 
@@ -29,56 +30,48 @@
 
 
 
-
-
-
-
-
-<script type="importmap">
-    {
-        "imports": {
-            "ckeditor5": "https://cdn.ckeditor.com/ckeditor5/43.1.1/ckeditor5.js",
-            "ckeditor5/": "https://cdn.ckeditor.com/ckeditor5/43.1.1/"
-        }
-    }
-</script>
 <script type="module">
-    import { ClassicEditor, Essentials, Paragraph, Bold, Italic, Font } from 'ckeditor5';
+            import {
+        ClassicEditor,
+        Essentials,
+        Paragraph,
+        Bold,
+        Italic,
+        Font
+    } from 'ckeditor5';
 
-    let keyEditor, valueEditor;
-
-    const editorConfig = {
-        plugins: [Essentials, Paragraph, Bold, Italic, Font],
-        toolbar: [
-            'undo', 'redo', '|', 'bold', 'italic', '|',
-            'fontSize', 'fontFamily', 'fontColor', 'fontBackgroundColor'
-        ]
-    };
 
     ClassicEditor
-        .create(document.querySelector('#input1'), editorConfig)
+        .create(document.querySelector('#input1'), {
+            plugins: [Essentials, Paragraph, Bold, Italic, Font],
+            toolbar: [
+                'undo', 'redo', '|', 'bold', 'italic', '|',
+                'fontSize', 'fontFamily', 'fontColor', 'fontBackgroundColor'
+            ]
+        })
         .then(editor => {
-            keyEditor = editor;
+            window.editor = editor;
         })
         .catch(error => {
             console.error(error);
         });
 
+
+
     ClassicEditor
-        .create(document.querySelector('#input2'), editorConfig)
+        .create(document.querySelector('#input2'), {
+            plugins: [Essentials, Paragraph, Bold, Italic, Font],
+            toolbar: [
+                'undo', 'redo', '|', 'bold', 'italic', '|',
+                'fontSize', 'fontFamily', 'fontColor', 'fontBackgroundColor'
+            ]
+        })
         .then(editor => {
-            valueEditor = editor;
+            window.editor = editor;
         })
         .catch(error => {
             console.error(error);
         });
-
-    // Sync CKEditor data with form before submission
-    document.getElementById('settingsForm').addEventListener('submit', (event) => {
-        // Update the form fields with editor data
-        document.querySelector('#input1').value = keyEditor.getData();
-        document.querySelector('#input2').value = valueEditor.getData();
-    });
 </script>
 @* 
     <script src="~/ckeditor5-builder-43.1.1/main.js"></script>
