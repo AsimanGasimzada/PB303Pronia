@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bJGP24SfzcVR7qKM53ta1MjfZa0dne4koFDghCnA3Ag=",
+  "Hash": "6sR/aNCXdV1Cy5a+Hl5RdiI4CJOqOg7PvqzAt9O1vZ4=",
   "Source": "PB303Pronia",
   "BasePath": "_content/PB303Pronia",
   "Mode": "Default",
@@ -1727,6 +1727,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\3fb7277b-ee3a-42c4-b506-fa7cd6fdcba61-1-120x120.webp"
     },
     {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg",
+      "SourceId": "PB303Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\",
+      "BasePath": "_content/PB303Pronia",
+      "RelativePath": "assets/images/4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\44e2d713-7280-4286-8d42-3266a16dbdf31-2-370x300.jpg",
       "SourceId": "PB303Pronia",
       "SourceType": "Discovered",
@@ -2791,6 +2810,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
     },
     {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg",
+      "SourceId": "PB303Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\",
+      "BasePath": "_content/PB303Pronia",
+      "RelativePath": "assets/images/c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\c7448ae4-39c5-4334-9358-6c10fd0ba64d1-2-270x300.jpg",
       "SourceId": "PB303Pronia",
       "SourceType": "Discovered",
@@ -2922,6 +2960,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\f238aa09-7189-466f-899f-a753b5e9315c1-11-270x300.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg",
+      "SourceId": "PB303Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\",
+      "BasePath": "_content/PB303Pronia",
+      "RelativePath": "assets/images/f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg"
     },
     {
       "Identity": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\f9f6b858-123a-482b-838d-638809de14281-3-570x633.jpg",

@@ -1,4 +1,5 @@
-﻿using PB303Pronia.Models.Common;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using PB303Pronia.Models.Common;
 using System.ComponentModel.DataAnnotations;
 
 namespace PB303Pronia.Models;
@@ -13,3 +14,6 @@ public class Product:BaseEntity
     public List<ProductImage> ProductImages { get; set; } = new();
 
 }
+
+
+

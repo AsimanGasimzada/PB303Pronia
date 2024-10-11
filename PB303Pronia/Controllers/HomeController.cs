@@ -35,6 +35,8 @@ public class HomeController : Controller
         var products =await _productRepository.GetAll().ToListAsync();
         var sliders = await _sliderRepository.GetAll().ToListAsync();
 
+
+
         HomeViewModel model = new HomeViewModel
         {
             Products = products,

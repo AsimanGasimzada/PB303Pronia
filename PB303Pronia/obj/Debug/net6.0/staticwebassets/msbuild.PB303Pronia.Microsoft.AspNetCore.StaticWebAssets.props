@@ -448,6 +448,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\3fb7277b-ee3a-42c4-b506-fa7cd6fdcba61-1-120x120.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PB303Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PB303Pronia</BasePath>
+      <RelativePath>assets/images/4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\4409a9db-4e66-4949-a7d5-0b58994a9051WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\44e2d713-7280-4286-8d42-3266a16dbdf31-2-370x300.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>PB303Pronia</SourceId>
@@ -1344,6 +1360,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\breadcrumb\bg\1-1-1919x388.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PB303Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PB303Pronia</BasePath>
+      <RelativePath>assets/images/c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\c65ca886-f590-4852-9d98-77366d480f65WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\c7448ae4-39c5-4334-9358-6c10fd0ba64d1-2-270x300.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>PB303Pronia</SourceId>
@@ -1455,6 +1487,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\f238aa09-7189-466f-899f-a753b5e9315c1-11-270x300.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>PB303Pronia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PB303Pronia</BasePath>
+      <RelativePath>assets/images/f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\f980fc43-1b12-4a4b-91a9-e227b97ee98fWhatsApp Image 2024-09-30 at 13.57.20_28abf1d9.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\f9f6b858-123a-482b-838d-638809de14281-3-570x633.jpg))">
       <SourceType>Package</SourceType>
