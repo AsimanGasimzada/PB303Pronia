@@ -27,15 +27,15 @@ namespace PB303Pronia.Services.Implementations
         }
 
 
-        public async  Task<List<BasketProductViewModel>> GetBasketAsync()
+        public async Task<List<BasketProductViewModel>> GetBasketAsync()
         {
             string? basket = _contextAccessor.HttpContext?.Request.Cookies[COOKIE_BASKET_KEY];
 
-            List<BasketViewModel> basketViewModels= new List<BasketViewModel>();
+            List<BasketViewModel> basketViewModels = new List<BasketViewModel>();
 
 
-            if(basket is { })
-                basketViewModels=JsonConvert.DeserializeObject<List<BasketViewModel>>(basket) ?? new();
+            if (basket is { })
+                basketViewModels = JsonConvert.DeserializeObject<List<BasketViewModel>>(basket) ?? new();
 
 
 
@@ -44,15 +44,44 @@ namespace PB303Pronia.Services.Implementations
 
             foreach (var item in basketViewModels)
             {
-                var product =await _context.Products.FindAsync(item.ProductId);
+                var product = await _context.Products.FindAsync(item.ProductId);
 
 
-                if(product is {})
+                if (product is { })
                 {
                     BasketProductViewModel vm = new()
                     {
-                        Product=product,
-                        Count=item.Count,
+                        Product = product,
+                        Count = item.Count,
+                    };
+
+                    basketItems.Add(vm);
+                }
+            }
+
+
+            return basketItems;
+        }
+
+
+
+        public async Task<List<BasketProductViewModel>> GetBasketAsync(List<BasketViewModel> basketViewModels)
+        {
+
+            List<BasketProductViewModel> basketItems = new();
+
+
+            foreach (var item in basketViewModels)
+            {
+                var product = await _context.Products.FindAsync(item.ProductId);
+
+
+                if (product is { })
+                {
+                    BasketProductViewModel vm = new()
+                    {
+                        Product = product,
+                        Count = item.Count,
                     };
 
                     basketItems.Add(vm);

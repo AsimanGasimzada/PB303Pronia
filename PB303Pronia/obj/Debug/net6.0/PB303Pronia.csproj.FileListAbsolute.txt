@@ -265,3 +265,7 @@ C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\BouncyCast
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\MailKit.dll
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\MimeKit.dll
 C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\bin\Debug\net6.0\PB303Pronia.staticwebassets.endpoints.json
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\obj\Debug\net6.0\staticwebassets\msbuild.PB303Pronia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Asiman\source\repos\PB303Pronia\PB303Pronia\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

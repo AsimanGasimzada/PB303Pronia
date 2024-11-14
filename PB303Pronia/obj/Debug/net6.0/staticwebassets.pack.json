@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PB303Pronia.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PB303Pronia.bundle.scp.css"
+      "PackagePath": "staticwebassets\\PB303Pronia.9g3ec1pn6a.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
@@ -89,6 +89,10 @@
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\15e538a2-babd-4c04-b18c-c39c2b79ef98WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\15e538a2-babd-4c04-b18c-c39c2b79ef98WhatsApp Image 2024-09-27 at 15.28.21_1329a978.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\2720b699-e4cb-4ad9-8403-54fd5372e0001-2-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\2720b699-e4cb-4ad9-8403-54fd5372e0001-2-120x120.webp"
     },
@@ -133,10 +137,6 @@
       "PackagePath": "staticwebassets\\assets\\images\\5674cccb-d921-4de9-b954-1b1f3f31f6ef1-1-120x120.webp"
     },
     {
-      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\57793161-adb4-470a-9e52-ec1063a9bea21-2-120x120.webp",
-      "PackagePath": "staticwebassets\\assets\\images\\57793161-adb4-470a-9e52-ec1063a9bea21-2-120x120.webp"
-    },
-    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\61c16508-ae31-4227-9d69-f9bca9500c3c1-2-524x617.png",
       "PackagePath": "staticwebassets\\assets\\images\\61c16508-ae31-4227-9d69-f9bca9500c3c1-2-524x617.png"
     },
@@ -173,16 +173,8 @@
       "PackagePath": "staticwebassets\\assets\\images\\9c732840-9762-4267-9851-02b4932ef5861-2-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\9fdd5faf-6612-4286-b9ab-3d0e637815d71-2-310x220.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\9fdd5faf-6612-4286-b9ab-3d0e637815d71-2-310x220.jpg"
-    },
-    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a834a4f0-5aef-4027-b175-e4d2ddb19da3car.png",
       "PackagePath": "staticwebassets\\assets\\images\\a834a4f0-5aef-4027-b175-e4d2ddb19da3car.png"
-    },
-    {
-      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a9b6b94d-5e06-4298-9d27-1ecf295cb7021-2-270x300.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\a9b6b94d-5e06-4298-9d27-1ecf295cb7021-2-270x300.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\a9df1e16-949f-4f7b-8401-c2960816b1931-2-270x300.jpg",
@@ -359,6 +351,10 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\e1ae1460-dc00-4b4a-a4b2-5f69d3d16b401-2-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\e1ae1460-dc00-4b4a-a4b2-5f69d3d16b401-2-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\e63bfec3-b6f6-4c21-82e5-dd8da063a6ddScreenshot 2024-10-02 141813.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e63bfec3-b6f6-4c21-82e5-dd8da063a6ddScreenshot 2024-10-02 141813.png"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\assets\\images\\ee6d46a0-565a-4d1a-8a1b-01994c72e9f51-11-270x300.jpg",
@@ -3547,6 +3543,10 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\PB303Pronia\\PB303Pronia\\wwwroot\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PB303Pronia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PB303Pronia.Microsoft.AspNetCore.StaticWebAssets.props",

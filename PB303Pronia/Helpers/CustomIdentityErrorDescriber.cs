@@ -8,7 +8,7 @@ public class CustomIdentityErrorDescriber : IdentityErrorDescriber
     {
         return new IdentityError { Code = nameof(ConcurrencyFailure), Description = "Uyğunlaşma xətası baş verdi." };
     }
-
+    
     public override IdentityError DefaultError()
     {
         return new IdentityError { Code = nameof(DefaultError), Description = "Naməlum xəta baş verdi." };

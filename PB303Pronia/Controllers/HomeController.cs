@@ -32,7 +32,7 @@ public class HomeController : Controller
     {
 
 
-        var products =await _productRepository.GetAll().ToListAsync();
+        var products = await _productRepository.GetAll().ToListAsync();
         var sliders = await _sliderRepository.GetAll().ToListAsync();
 
 
@@ -96,7 +96,15 @@ public class HomeController : Controller
         //return PartialView("_BasketPartial", basketItems);
 
 
-        return RedirectToAction("Redirect");
+        //return RedirectToAction("Redirect");
+
+
+        var basketItems = await _layoutService.GetBasketAsync(basketViewModels);
+
+        return PartialView("_BasketPartial", basketItems);
+
+
+
 
 
     }
